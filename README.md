@@ -1,6 +1,6 @@
 # IOwatch
 
-I/O Workload Characterization - Monitor all aspects of I/O (storage) subsystem
+I/O Workload Characterization - Monitor All Aspects of I/O (Storage) Subsystem
 
 1- Draw characterization diagrams (visual results):
   
