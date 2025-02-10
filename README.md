@@ -1,4 +1,4 @@
-# I/O Workload Characterization
+# IOwatch
 
 
 1- Draw characterization diagrams (visual results):
